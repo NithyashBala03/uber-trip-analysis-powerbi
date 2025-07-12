@@ -77,5 +77,30 @@ The dataset contains over **100,000 trip records**, including details such as tr
 
 ---
 
-## 📁 Project Structure
+
+## 🚀 How to Use
+
+1. Download the `Uber_Trip_Analysis.pbix` file from the Dashboard folder.
+2. Open in **Power BI Desktop**.
+3. Explore the report using slicers (vehicle type, payment method, time).
+4. Drill into specific insights using built-in filters and tooltips.
+
+---
+
+## 📌 Future Enhancements
+
+- Incorporate real-time API data from Uber (if accessible)
+- Add advanced clustering for customer segmentation
+- Enable Power BI Service deployment with row-level security
+
+---
+
+## 📬 Connect With Me
+
+I'm passionate about analytics and solving real-world problems with data.  
+
+---
+
+> ⭐ **If you found this project helpful or inspiring, feel free to star the repo and share!**
+
 
